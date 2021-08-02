@@ -1836,8 +1836,8 @@ int id btnAddA 0x7f080059
 int id btnAddB 0x7f08005a
 int id btnRemoveA 0x7f08005b
 int id btnRemoveB 0x7f08005c
-int id btnReplaceAWithBWithoutBackstack 0x7f08005e
-int id btnReplaceAWithBackstack 0x7f0801b4
+int id btnReplaceAWithBWithoutBackstack 0x7f08005d
+int id btnReplaceAWithBackstack 0x7f08005e
 int id btnReplaceBWithA 0x7f08005f
 int id buttonPanel 0x7f080060
 int id cache_measures 0x7f080061
