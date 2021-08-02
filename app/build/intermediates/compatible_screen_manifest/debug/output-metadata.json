@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a1052aug_fragment_iii_transaction_method_we1",
+  "variantName": "debug",
+  "elements": []
+}

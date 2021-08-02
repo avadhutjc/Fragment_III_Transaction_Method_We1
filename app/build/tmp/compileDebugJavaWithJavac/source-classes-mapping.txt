@@ -1,0 +1,8 @@
+com/masai/a1052aug_fragment_iii_transaction_method_we1/FragmentB.java
+ com.masai.a1052aug_fragment_iii_transaction_method_we1.FragmentB
+com/masai/a1052aug_fragment_iii_transaction_method_we1/MainActivity.java
+ com.masai.a1052aug_fragment_iii_transaction_method_we1.MainActivity
+com/masai/a1052aug_fragment_iii_transaction_method_we1/BuildConfig.java
+ com.masai.a1052aug_fragment_iii_transaction_method_we1.BuildConfig
+com/masai/a1052aug_fragment_iii_transaction_method_we1/FragmentA.java
+ com.masai.a1052aug_fragment_iii_transaction_method_we1.FragmentA
